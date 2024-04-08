@@ -19,3 +19,8 @@ day02 >>>
 - Math.pow(x,y) : x의 y제곱근
 
 day03 >>>
+
+day04 >>>
+
+- filter() + join()
+- switch case
